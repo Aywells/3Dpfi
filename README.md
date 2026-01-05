@@ -97,4 +97,5 @@ These are the computational approaches discussed in our paper:
 
 Download the AlphaFold2-predicted co-translational intermediates (all four proteins) and the “proxy” intermediates (two proteins):
 
-**Download:** `our_predicted_structures.zip`
+**Download:** [our_predicted_structures.zip](https://github.com/user-attachments/files/24438645/our_predicted_structures.zip)
+
