@@ -20,7 +20,7 @@ This section lists studies reporting experimentally determined post-translationa
   https://www.science.org/doi/full/10.1126/science.1214203  
   - PDB:  
     - https://www.rcsb.org/structure/2L2P (intermediate 1)  
-    - https://www.rcsb.org/structure/2L25 (intermediate 2)
+    - https://www.rcsb.org/structure/2LP5 (intermediate 2)
 
 - **Zhou et al. (2008)** — RNase H  
   https://www.sciencedirect.com/science/article/pii/S002228360801190X  
